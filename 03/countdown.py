@@ -1,6 +1,3 @@
-from typing import Counter
-
-
 def countdown(i):
     print(i)
     if i <= 0:
